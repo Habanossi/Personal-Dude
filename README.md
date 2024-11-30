@@ -13,7 +13,7 @@ Autonomous mobile robot:
  - control
  - decision making
 
-##Comms:
+## Comms:
  - speech to text
  - text processing
  - commands
@@ -21,15 +21,15 @@ Autonomous mobile robot:
  - text to speech 
  - philosophical content
 
-##The commands:
-###Digital:
+## The commands:
+### Digital:
 - check weather
 - check news
 - webscrape
 - home automation
 - messaging?
 
-###Physical:
+### Physical:
 - sounds
 - monitoring
 - fetch beer
