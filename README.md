@@ -4,22 +4,19 @@ AI/Robotics/Home automation hobby project, goal would be to have an autonomous m
 Aim is also to learn proper version numbering.
 
 
-Initial notes of ideas:
-
-Make diy ai robot:
-Autonomous mobile robot:
- - perception
- - path planning
- - control
- - decision making
+## Autonomous mobile robot:
+- perception
+- path planning
+- control
+- decision making
 
 ## Comms:
- - speech to text
- - text processing
- - commands
- - comms as in llm?
- - text to speech 
- - philosophical content
+- speech to text
+- text processing
+- commands
+- comms as in llm?
+- text to speech 
+- philosophical content
 
 ## The commands:
 ### Digital:
