@@ -3,7 +3,7 @@ AI/Robotics/Home automation hobby project, goal would be to have an autonomous m
 
 Aim is also to learn proper version numbering.
 
-## Current version 0.1.0
+## Current version 0.1.1
 - no physical robot
 - python program which runs but does actually nothing yet
 - no commands available
