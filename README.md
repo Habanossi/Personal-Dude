@@ -3,6 +3,12 @@ AI/Robotics/Home automation hobby project, goal would be to have an autonomous m
 
 Aim is also to learn proper version numbering.
 
+## Current version 0.1.0
+- no physical robot
+- python program which runs but does actually nothing yet
+- no commands available
+- user can quit the program (nice)
+
 
 ## Autonomous mobile robot:
 - perception
