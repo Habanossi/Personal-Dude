@@ -3,10 +3,10 @@ AI/Robotics/Home automation hobby project, goal would be to have an autonomous m
 
 Aim is also to learn proper version numbering.
 
-## Current version 0.1.1
+## Current version 0.2.0
 - no physical robot
-- python program which runs but does actually nothing yet
-- no commands available
+- python program which waits for wake-word before doing anything
+- gpt wake-word available, waits for a prompt and then gives a maximum 10 word answer in <10 seconds.
 - user can quit the program (nice)
 
 
