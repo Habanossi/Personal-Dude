@@ -21,6 +21,7 @@ Aim is also to learn proper version numbering.
 - text processing
 - commands
 - comms as in llm?
+- Specific wake-word for Command-mode, another wake-word for LLM-mode
 - text to speech 
 - philosophical content
 
